@@ -59,11 +59,15 @@ pip install -r requirements.txt
 # Run the app
 streamlit run spam_app.py
 
-👤 Author
+---
+
+## 👤 Author
 Pranab Mahalik
 GitHub | LinkedIn (update link)
 
-🌟 Acknowledgements
+---
+
+## 🌟 Acknowledgements
 Dataset: UCI SMS Spam Collection Dataset
 
 Inspired by real-world ML use cases
