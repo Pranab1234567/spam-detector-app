@@ -61,6 +61,17 @@ streamlit run spam_app.py
 
 ---
 
+## 👤 Author
 
+**Pranab Mahalik**  
+🔗 [GitHub](https://github.com/Pranab1234567)  
+🔗 [LinkedIn](https://linkedin.com/in/your-link) *(Update your real LinkedIn link)*
 
+---
 
+## 🌟 Acknowledgements
+
+- 📚 **Dataset**: [UCI SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)  
+- 💡 This project is inspired by real-world use cases of NLP and spam detection in email services.
+
+---
