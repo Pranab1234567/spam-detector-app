@@ -61,26 +61,6 @@ streamlit run spam_app.py
 
 ---
 
-## 👤 Author
-Pranab Mahalik
-GitHub | LinkedIn (update link)
-
----
-
-## 🌟 Acknowledgements
-Dataset: UCI SMS Spam Collection Dataset
-
-Inspired by real-world ML use cases
 
 
----
 
-### ✅ What to do now?
-
-1. **Go to your GitHub repo**  
-2. Click **“Add file → Create new file”**  
-3. Name it `README.md`  
-4. Paste the content above  
-5. Click **“Commit new file”**
-
-Let me know if you want help writing a professional `requirements.txt` or deploying to Streamlit Cloud (if not done yet).
