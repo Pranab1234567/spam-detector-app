@@ -6,8 +6,8 @@ A simple Machine Learning web app built with **NLP + Streamlit** to classify whe
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app on Streamlit](https://titanic-app-app-lks4cfdtbmh4ggutlasxyn.streamlit.app)  
-*(Replace with your actual Streamlit Cloud link if different)*
+👉 [Click here to try the app on Streamlit](https://spam-detector-app-qfmofgmrtmkk6ajxaxfqzs.streamlit.app/)  
+
 
 ---
 
@@ -61,18 +61,3 @@ pip install -r requirements.txt
 # Run the app
 streamlit run spam_app.py
 
----
-
-## 👤 Author
-
-**Pranab Mahalik**  
-[GitHub](https://github.com/Pranab1234567) | [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)  
-*(Update the LinkedIn link)*
-
----
-
-## 🌟 Acknowledgements
-
-- Dataset: [UCI SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
-- Inspired by real-world applications of **NLP + ML**
-- Built as part of my 60-day ML learning journey 🚀
